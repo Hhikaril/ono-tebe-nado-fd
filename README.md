@@ -1,1 +1,1 @@
-https://github.com/Hhikaril/ono-tebe-nado/tree/main
+https://github.com/Hhikaril/ono-tebe-nado.git
