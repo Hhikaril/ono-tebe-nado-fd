@@ -1,1 +1,1 @@
-https://github.com/Hhikaril/ono-tebe-nado.git
+https://github.com/Hhikaril/ono-tebe-nado
