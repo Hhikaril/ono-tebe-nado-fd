@@ -1,1 +1,1 @@
-git@github.com:Hhikaril/ono-tebe-nado-fd.git
+https://github.com/Hhikaril/ono-tebe-nado-fd
